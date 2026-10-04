@@ -14,7 +14,7 @@ Desde Michoacán, México 🇲🇽 · Trabajo 100% en línea · Español
 |---|---|---|
 | **Cobranza por WhatsApp con IA** | Más de 4,000 clientes de un proveedor de internet: entiende comprobantes en imagen o PDF, registra el pago y emite factura electrónica (CFDI) | En producción |
 | **Plataforma de atención humanos + IA** | Los agentes atienden y pasan la conversación a una persona con todo el contexto, en el mismo panel | 11 días |
-| **Agente de inscripciones y cobro** | Registra participantes de un evento deportivo por WhatsApp y Facebook, valida datos y deriva casos especiales | 41 días de la idea a producción |
+| **Agente de inscripciones y cobro** | Registra participantes de un evento deportivo por WhatsApp y Facebook, valida datos y deriva casos especiales | 16 días de código a producción |
 | **Plataforma de validación fiscal** | Descarga y valida facturas del SAT de forma masiva, con arquitectura hexagonal y resguardo de llaves | En producción |
 | **Asistente de voz en tiempo real** *(en construcción)* | Dictado, transcripción con glosario y síntesis de voz desde el celular | 52 funcionalidades en 4 días |
 
