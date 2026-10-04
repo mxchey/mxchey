@@ -4,7 +4,7 @@
 
 Plataformas con inteligencia artificial, voz, WhatsApp, pagos y facturación que hoy operan con usuarios reales. Entiendo el negocio, no solo el código: soy dueño de una empresa de telecomunicaciones y desarrollo el software que la opera.
 
-Desde Michoacán, México 🇲🇽 · Trabajo 100% en línea · Español
+Desde el Estado de México 🇲🇽 · Trabajo 100% en línea · Español
 
 ---
 
