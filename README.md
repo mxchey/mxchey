@@ -2,7 +2,7 @@
 
 **Construyo apps web completas con inteligencia artificial, de la idea a producción, en semanas.**
 
-Trabajo con mi propio equipo de agentes de IA: yo entiendo el negocio, diseño la solución y superviso cada entrega; los agentes planean, construyen, prueban y revisan en paralelo. El resultado: la velocidad de un equipo completo con una sola persona responsable.
+Plataformas con inteligencia artificial, voz, WhatsApp, pagos y facturación que hoy operan con usuarios reales. Entiendo el negocio, no solo el código: soy dueño de una empresa de telecomunicaciones y desarrollo el software que la opera.
 
 Desde Michoacán, México 🇲🇽 · Trabajo 100% en línea · Español
 
@@ -16,7 +16,7 @@ Desde Michoacán, México 🇲🇽 · Trabajo 100% en línea · Español
 | **Plataforma de atención humanos + IA** | Los agentes atienden y pasan la conversación a una persona con todo el contexto, en el mismo panel | 11 días desde el primer commit |
 | **Agente de inscripciones y cobro** | Registra participantes de un evento deportivo por WhatsApp y Facebook, valida datos y deriva casos especiales | 41 días de la planeación a producción |
 | **Plataforma de validación fiscal** | Descarga y valida facturas del SAT de forma masiva, con arquitectura hexagonal y resguardo de llaves | 21 días desde el primer commit |
-| **Asistente de voz para agentes** *(en construcción)* | Dicta instrucciones y escucha respuestas de varios agentes de IA desde el celular | 52 funcionalidades en 4 días |
+| **Asistente de voz en tiempo real** *(en construcción)* | Dictado, transcripción con glosario y síntesis de voz desde el celular | 52 funcionalidades en 4 días |
 
 ## En números (repos privados, marzo – octubre 2026)
 
@@ -28,7 +28,7 @@ Desde Michoacán, México 🇲🇽 · Trabajo 100% en línea · Español
 
 - Precio fijo por hitos: el cliente aprueba cada entrega antes de pagar
 - Primer entregable funcionando en días
-- Código con pruebas, documentación y en el repositorio del cliente desde el día uno
+- Código con pruebas automáticas, revisión y documentación, en el repositorio del cliente desde el día uno
 - Soporte y mejoras después de la entrega
 
 ## Tecnologías
