@@ -10,19 +10,13 @@ Desde Michoacán, México 🇲🇽 · Trabajo 100% en línea · Español
 
 ## Lo que ya opera en producción
 
-| Sistema | Qué hace | De cero a producción |
+| Sistema | Qué hace | Estado |
 |---|---|---|
-| **Agentes de cobranza por WhatsApp** | Atienden a más de 4,000 clientes de un proveedor de internet: leen comprobantes con OCR, concilian, registran el pago y emiten factura electrónica (CFDI) | 6–8 días desde el primer commit |
-| **Plataforma de atención humanos + IA** | Los agentes atienden y pasan la conversación a una persona con todo el contexto, en el mismo panel | 11 días desde el primer commit |
-| **Agente de inscripciones y cobro** | Registra participantes de un evento deportivo por WhatsApp y Facebook, valida datos y deriva casos especiales | 41 días de la planeación a producción |
-| **Plataforma de validación fiscal** | Descarga y valida facturas del SAT de forma masiva, con arquitectura hexagonal y resguardo de llaves | 21 días desde el primer commit |
+| **Cobranza por WhatsApp con IA** | Más de 4,000 clientes de un proveedor de internet: entiende comprobantes en imagen o PDF, registra el pago y emite factura electrónica (CFDI) | En producción |
+| **Plataforma de atención humanos + IA** | Los agentes atienden y pasan la conversación a una persona con todo el contexto, en el mismo panel | 11 días |
+| **Agente de inscripciones y cobro** | Registra participantes de un evento deportivo por WhatsApp y Facebook, valida datos y deriva casos especiales | 41 días de la idea a producción |
+| **Plataforma de validación fiscal** | Descarga y valida facturas del SAT de forma masiva, con arquitectura hexagonal y resguardo de llaves | En producción |
 | **Asistente de voz en tiempo real** *(en construcción)* | Dictado, transcripción con glosario y síntesis de voz desde el celular | 52 funcionalidades en 4 días |
-
-## En números (repos privados, marzo – octubre 2026)
-
-- **~6,300 commits** y **más de 2,000 pull requests** integrados
-- **~2,500 archivos de pruebas automáticas** y CI/CD en cada sistema
-- Producción mensual **2.7× mayor** en septiembre que en mayo, y sigue subiendo
 
 ## Cómo trabajo
 
